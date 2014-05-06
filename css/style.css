@@ -143,12 +143,12 @@ table {
 	-webkit-border-radius:3px;
 	border-radius:3px;
 
-	-moz-box-shadow: 0 1px 2px #d1d1d1;
-	-webkit-box-shadow: 0 1px 2px #d1d1d1;
-	box-shadow: 0 1px 2px #d1d1d1;
+	-moz-box-shadow: 1px 1px 2px #d1d1d1;
+	-webkit-box-shadow: 1px 1px 2px #d1d1d1;
+	box-shadow: 1px 1px 2px #d1d1d1;
 }
 table th {
-	border-top:1px solid #fafafa;
+	border-top:1px solid #d1d1d1;
 	border-bottom:1px solid #e0e0e0;
 
 	background: #ededed;
